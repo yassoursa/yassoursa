@@ -1,18 +1,21 @@
 <div align="center">
 
-<!-- Banner Image / GIF -->
-<img src="https://i.pinimg.com/originals/a0/0a/63/a00a63e9f4528cbe98c25dbb2c938c11.gif" width="100%" alt="Header Banner"/>
+<img src="https://i.pinimg.com/736x/93/8c/7b/938c7bf5314b5fd83691293c25f12756.jpg" width="100%" alt="Pixel Night City Banner"/>
 
-# Hi, I'm Yousra 👋
+<br/><br/>
+
+# ─── ⋆⋅☆⋅⋆ ───
+# 🖤 Hi, I'm Yousra 🐾
+### <sub>*Computer Science Student & Tech Explorer*</sub>
 
 </div>
 
 ---
 
-### 🖤 Know About Me 🐾
+### ─── ⋆⋅ 🐾 Know About Me ⋅⋆ ───
 
 <p align="left">
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWd0YWxweDRtOHI2eDVyNGZ3b2MwdXdqYXA5bGVwMGptNHc3YmxmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MDJ9IbxxvDUQM/giphy.gif" width="160" />
+<img align="right" src="https://i.pinimg.com/originals/30/1e/9c/301e9c2b4d90d8174154425712128e93.gif" width="190" style="border-radius: 12px;" />
 
 - 🎓 **Computer Science Student** at University of Mascara
 - 💻 Deep diving into **Software Engineering & Web Technologies**
@@ -21,36 +24,30 @@
 
 <br/>
 
-**Tech Stack:**
+**─── ⋆⋅ 🛠️ Tech Stack ⋅⋆ ───**
+
 `HTML5` `CSS3` `JavaScript` `PHP` `SQL` `C` `Git`
 
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### ─── ⋆⋅ 🌐 Connect With Me ⋅⋆ ───
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/yousra-boukharrouba-7b99521a2/))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yassoursa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/yousra-boukharrouba-7b99521a2/))
+[![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yassoursa)
 
 </div>
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad."*
-<!--
-**yassoursa/yassoursa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+> *"Code is like humor. When you have to explain it, it’s bad."* > <sub>🐾 🖤 ✨</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+> <sub>🐾 🖤 ✨</sub>
+
+</div>
